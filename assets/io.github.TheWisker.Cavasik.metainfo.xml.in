@@ -24,6 +24,7 @@
   <launchable type="desktop-id">io.github.TheWisker.Cavasik.desktop</launchable>
   <url type="homepage">https://github.com/TheWisker/Cavasik</url>
   <url type="bugtracker">https://github.com/TheWisker/Cavasik/issues</url>
+  <url type="vcs-browser">https://github.com/TheWisker/Cavasik</url>
   <developer_name>TheWisker</developer_name>
   <translation type="gettext">Cavasik</translation>
   <screenshots>
@@ -104,7 +105,6 @@
     <display_length compare="ge">360</display_length>
   </requires>
   <custom>
-    <value key="Purism::form_factor">workstation</value>
     <value key="Purism::form_factor">mobile</value>
   </custom>
 </component>
